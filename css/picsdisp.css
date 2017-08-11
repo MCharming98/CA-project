@@ -1,15 +1,18 @@
-@media screen and (max-width:800px){
-	.dispbos{display:none}
+@media screen and (max-width:1000px){
+	.dispbox{display:none}
 	.displist{display:none}
 	.listbtn{display:none}
 	.buttons{display:none}
+	.dispphone{display}
 }
+@media screen and (min-width:1000px){
+	.dispphone{display:none}
+	}
 
 .dispbox{
-	margin-top: 50px;
+	margin-top: 50px
 	width: 100%;
 	height: 600px;
-
 	position: relative;
 }
 
