@@ -2,9 +2,8 @@
 		.nav{display:none}
 		.navbar{display:none}
 		.navphone{display}
-		p{font-size: 100%}
 	}
-	@media screen and (min-width:1000px){
-		.navphone{display:none}
-		p{font-size: 150%}
+@media screen and (min-width:1000px){
+	.navphone{display:none}
 	}
+p{font-size: 150%}
