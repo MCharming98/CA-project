@@ -6,16 +6,16 @@
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
     border-radius: 20px;
-    border-top:#088cb7 1px solid;
-    border-bottom:#088cb7 1px solid;
-    border-left:#088cb7 1px solid;
-    border-right:#088cb7 1px solid;
+    border-top:#ffe6bc 1px solid;
+    border-bottom:#ffe6bc 1px solid;
+    border-left:#ffe6bc 1px solid;
+    border-right:#ffe6bc 1px solid;
 }
 
 .vlink p{
-	color:#088cb7;
+	color:#925c4b;
 	position:relative;
-	top: 10px;
+	top: 5px;
 }
 
 .vlink a{
@@ -29,5 +29,5 @@
 }
 
 .vlink:hover{
-	background-color:#088cb7;
+	background-color:#925c4b;
 }
