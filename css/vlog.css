@@ -1,3 +1,12 @@
+@media screen and (max-width:1000px){
+    .upper{position: relative; top:250px}
+    .lower{position: relative; top:450px}
+}
+@media screen and (min-width:1000px){
+    .upper{position: relative; top:200px}
+    .lower{position: relative; top:300px}
+    }
+
 .vlink {
     width: 100px;
     height: 50px;
