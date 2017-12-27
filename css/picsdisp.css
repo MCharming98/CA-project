@@ -75,3 +75,7 @@ div>div>ul>li>a>img{
 .p7{
 	transform:translate3d(1120px,0,0) scale(0.81);
 }
+
+.more:hover{
+	opacity: 0.7
+}
