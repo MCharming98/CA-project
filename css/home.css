@@ -1,0 +1,13 @@
+.toHomePage{
+    width: 20%;
+    height: 35px;
+    background-color:#fff;
+    position: relative;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    border-top:#ed9678 1px solid;
+    border-bottom:#ed9678 1px solid;
+    border-left:#ed9678 1px solid;
+    border-right:#ed9678 1px solid;
+}
