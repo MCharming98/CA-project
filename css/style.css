@@ -1,7 +1,7 @@
 @media screen and (max-width:1000px){
-		.nav{display:none}
-		.navbar{display:none}
-		.navphone{display}
+	.nav{display:none}
+	.navbar{display:none}
+	.navphone{display}
 }
 @media screen and (min-width:1000px){
 	.navphone{display:none}
