@@ -3,10 +3,14 @@
         .usefulLink_phone{display}
         .last_update_wide{display:none}
         .last_update_phone{display}
+        .intro_phone{display}
+        .intro_wide{display:none;}
 }
 @media screen and (min-width:1000px){
     .usefulLink_phone{display:none}
     .usefulLink_wide{display}
     .last_update_wide{display}
     .last_update_phone{display:none;}
+    .intro_phone{display:none;}
+    .intro_wide{display}
 }
