@@ -1,0 +1,16 @@
+.vlogLink{
+    width: 18%;
+    height: 35px;
+    background-color:#fff;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    border-top:#2b367a 1px solid;
+    border-bottom:#2b367a 1px solid;
+    border-left:#2b367a 1px solid;
+    border-right:#2b367a 1px solid;
+}
+
+.vlogLink a{
+    text-decoration: none;
+}
