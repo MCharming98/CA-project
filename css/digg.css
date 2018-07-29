@@ -1,6 +1,6 @@
 DIV.digg { 
 PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px;
- MARGIN: 3px; PADDING-TOP: 3px; TEXT-ALIGN: center 
+ MARGIN: 3px; PADDING-TOP: 3px; TEXT-ALIGN: center; font-size: 150%
 } 
 DIV.digg A { 
 BORDER-RIGHT: #453f3f 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #453f3f 1px solid;
@@ -11,7 +11,7 @@ BORDER-LEFT: #453f3f 1px solid; COLOR: #000; PADDING-TOP: 2px;
 DIV.digg A:hover { 
 BORDER-RIGHT: #a8d8b3 1px solid; BORDER-TOP: #a8d8b3 1px solid;
  BORDER-LEFT: #a8d8b3 1px solid; COLOR: #000; BORDER-BOTTOM: #a8d8b3 1px solid 
-} 
+}
 DIV.digg A:active { 
 BORDER-RIGHT: #a8d8b3 1px solid; BORDER-TOP: #a8d8b3 1px solid;
  BORDER-LEFT: #a8d8b3 1px solid; COLOR: #000; BORDER-BOTTOM: #a8d8b3 1px solid 
